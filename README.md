@@ -1,8 +1,7 @@
 # Super-resolution single-photon imaging at 8.2 kilometers
  
 This demo includes data and MATLAB codes for the paper "Super-resolution single-photon imaging at 8.2 kilometers"
-by Zheng-Ping Li, Xin Huang, Peng-Yu Jiang, Yu Hong, Chao Yu, Yuan Cao, Jun Zhang, Feihu Xu, and Jian-Wei Pan
-published in Optics Express 28(3), 4076-4087, 2020 .
+by Zheng-Ping Li, Xin Huang, Peng-Yu Jiang, Yu Hong, Chao Yu, Yuan Cao, Jun Zhang, Feihu Xu, and Jian-Wei Pan published in Optics Express 28(3), 4076-4087, 2020 .
 
 How to cite (BibTeX):
 @article{li2020super,
