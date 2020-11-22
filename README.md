@@ -28,9 +28,9 @@ This long-range-tailored super-resolution reconstruction algorithm is a 3D decon
 
 Instructions for the experimental data:
 
- -"data_night.mat", it contains raw data for 5 postures captured at night. 
- -"data_daylight.mat", it contains raw data for 2 postures captured in the daylight. 
- For each posture, the ToF information of the arrival photons (unit: ps) is recorded. 
+   -"data_night.mat", it contains raw data for 5 postures captured at night. 
+   -"data_daylight.mat", it contains raw data for 2 postures captured in the daylight. 
+   For each posture, the ToF information of the arrival photons (unit: ps) is recorded. 
 
 
 
